@@ -5,18 +5,21 @@ title: FFRM
 permalink: /contact/
 ---
 
+{% include coming_soon.html %}
+
+<!--
 <section class="bg-gray-light py-5 fade-in-center">
   <div class="container-lg p-responsive">
     <div class="text-center mb-5">
       <h2 class="alt-h2 mb-4">Get Involved</h2>
     </div>
 
-    <!-- Section 1: Community Engagement -->
+     Section 1: Community Engagement 
     <div class="involvement-section mb-5">
       <h3 class="section-title text-center mb-4">💬 Join Our Community</h3>
       
       <!-- Discourse Link at the start
-      --> 
+       
       <div class="text-center mb-4">
         <a href="https://forum.u4ria.org/" target="_blank" class="btn btn-primary btn-lg">
           Visit the Discourse Forum →
@@ -27,7 +30,8 @@ permalink: /contact/
         Join other FFRM practitioners by becoming part of our Discourse community—a dedicated online space for collaboration, learning, and sharing.
       </p>
 
-      <!-- Centered platform benefits -->
+<!-- Centered platform benefits 
+      
       <div class="text-center mb-4">
         <h4 class="platform-benefits-title">This platform allows members to:</h4>
       </div>
@@ -51,7 +55,7 @@ permalink: /contact/
       </div>
     </div>
 
-    <!-- Section 2: Technical Contributions -->
+<!-- Section 2: Technical Contributions 
     <div class="involvement-section">
       <h3 class="section-title text-center mb-4">🛠️ Contribute to Development</h3>
       

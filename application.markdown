@@ -1,10 +1,14 @@
 ---
 theme: jekyll-theme-primer
 layout: sub-page
-title: FFRM
+title: FINTRACK
 permalink: /applications/
 ---
-<section class="bg-gray-light container-lg p-responsive py-4 py-md-6 my-lg-6 fade-in-center">
+
+{% include coming_soon.html %}
+
+
+<!-- <section class="bg-gray-light container-lg p-responsive py-4 py-md-6 my-lg-6 fade-in-center">
   <div class="text-center fade-in-center">
     <h2 class="alt-h2 mb-4">FFRM Applications</h2>
   </div>
@@ -81,7 +85,7 @@ permalink: /applications/
   <div class="slider-dots text-center mt-3" id="sliderDots"></div>
 </section>
 -->
-
+<!-->
 <section class="container-lg p-responsive py-4 py-md-6 my-lg-6">
   <div class="recommended-reading">
     <h2 class="alt-h2 text-center mb-4">Recommended Reading</h2>
@@ -481,3 +485,4 @@ document.addEventListener("keydown", (e) => {
 createDots();
 updateSlider();
 </script>
+-->
